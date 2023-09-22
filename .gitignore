@@ -1,0 +1,4 @@
+./stack-be/node_modules
+./stack-fe/node_modules
+./stack-be/build
+./stack-fe/build
