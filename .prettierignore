@@ -1,0 +1,5 @@
+/src/reportWebVitals.ts
+/src/setupTests.ts
+.eslintrc.js
+build/*
+build
