@@ -5,6 +5,7 @@ import LoadingSpinner from "ui-component/LoadingSpinner";
 import Locales from "ui-component/Locales";
 import Snackbar from "ui-component/Snackbar";
 const App = () => {
+	console.log("abc");
 	return (
 		<Locales>
 			<AuthProvider>
