@@ -1,7 +1,7 @@
 pipeline{
     agent any
     stages{
-        stage('Chone'){
+        stage('Clone'){
             steps{
                 git 'https://github.com/trietnk01/hello-nodejs.git'
             }
